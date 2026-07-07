@@ -2,7 +2,7 @@
 🔭 I’m currently working on building high-performance, enterprise-scale web applications using Angular 17 and React, focusing on migrating legacy features to modern architectures and automating quality gates with CI/CD pipelines.<br>👯 I’m looking to collaborate on open-source UI component libraries, scalable design systems (Figma to code), or performance optimization projects involving large datasets and AG-Grid virtualization.<br>🤝 I’m looking for help with advanced cloud orchestration patterns in AWS and Azure to further streamline automated deployments and edge-hosting performance.<br>🌱 I’m currently learning deepening my expertise in Node.js middleware architecture and advanced GraphQL mutations to optimize full-stack data orchestration.<br>💬 Ask me about <br>*Frontend Ecosystems: React, Redux Toolkit, Angular, and TypeScript.<br>*State & Performance: Lazy loading, memoization, and custom HTTP interceptors.<br>*Testing Culture: Driving 30% unit test coverage increases via TDD (Jest, Jasmine, Karma).<br>*Team Leadership: Mentoring junior engineers and driving Agile Scrum ceremonies.<br>⚡ Fun fact is I was officially recognized as the "Best Employee of the Team" at Accenture for proactive leadership—meaning I actually make sprint planning and scrum ceremonies highly productive and engaging!
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swapna-katturi-775071b4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:katturi.swapna@gmail.com) 
 
 # 💻 Tech Stack:
